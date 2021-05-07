@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JarTest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c3598d2-6aa1-4399-a7c7-4634fc72b647" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1isYaYq2u2P5C9nFXQrECaV5jS5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunOnlyFailedTestCasesOnJenkins">
+    <configuration name="ManuallyDownloadZipAndReadTheTestCases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManuallyDownloadZipAndReadTheTestCases" />
+      <module name="JarTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunOnlyFailedTestCasesOnJenkins" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunOnlyFailedTestCasesOnJenkins" />
+      <module name="JarTest" />
+      <option name="PROGRAM_PARAMETERS" value="regression-ga-android-automation 406" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeStamp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeStamp" />
+      <module name="JarTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JarTest_jar/JarTest.jar" />
+      <option name="PROGRAM_PARAMETERS" value="regression-commons-android-automation 585" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JarTest:jar" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ManuallyDownloadZipAndReadTheTestCases" />
+      <item itemvalue="Application.RunOnlyFailedTestCasesOnJenkins" />
+      <item itemvalue="Application.TimeStamp" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ManuallyDownloadZipAndReadTheTestCases" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c3598d2-6aa1-4399-a7c7-4634fc72b647" name="Default Changelist" comment="" />
+      <created>1602697830026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602697830026</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1620413011441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620413011441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620412463063">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="170" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.795@0.23.1440.795" timestamp="1620412463063" />
+    <state x="444" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619546958539">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="444" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.795@0.23.1440.795" timestamp="1619546958539" />
+    <state x="321" y="23" key="CommitChangelistDialog2" timestamp="1620413010936">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="321" y="23" key="CommitChangelistDialog2/0.23.1440.795@0.23.1440.795" timestamp="1620413010936" />
+    <state width="679" height="159" key="GridCell.Tab.0.bottom" timestamp="1620412686503">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="679" height="159" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1620412686503" />
+    <state width="1358" height="251" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614700510413" />
+    <state width="679" height="159" key="GridCell.Tab.0.center" timestamp="1620412686502">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="679" height="159" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1620412686502" />
+    <state width="1358" height="251" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1614700510412" />
+    <state width="679" height="159" key="GridCell.Tab.0.left" timestamp="1620412686501">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="679" height="159" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1620412686501" />
+    <state width="1358" height="251" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1614700510412" />
+    <state width="679" height="159" key="GridCell.Tab.0.right" timestamp="1620412686502">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="679" height="159" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1620412686502" />
+    <state width="1358" height="251" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1614700510413" />
+    <state width="1358" height="218" key="GridCell.Tab.1.bottom" timestamp="1619614558116">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1358" height="218" key="GridCell.Tab.1.bottom/0.23.1440.795@0.23.1440.795" timestamp="1619614558116" />
+    <state width="1358" height="218" key="GridCell.Tab.1.center" timestamp="1619614558116">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1358" height="218" key="GridCell.Tab.1.center/0.23.1440.795@0.23.1440.795" timestamp="1619614558116" />
+    <state width="1358" height="218" key="GridCell.Tab.1.left" timestamp="1619614558116">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1358" height="218" key="GridCell.Tab.1.left/0.23.1440.795@0.23.1440.795" timestamp="1619614558116" />
+    <state width="1358" height="218" key="GridCell.Tab.1.right" timestamp="1619614558116">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1358" height="218" key="GridCell.Tab.1.right/0.23.1440.795@0.23.1440.795" timestamp="1619614558116" />
+    <state x="207" y="40" key="SettingsEditor" timestamp="1620413903315">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="207" y="40" key="SettingsEditor/0.23.1440.795@0.23.1440.795" timestamp="1620413903315" />
+    <state x="306" y="141" key="Vcs.Push.Dialog.v2" timestamp="1620414877834">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="306" y="141" key="Vcs.Push.Dialog.v2/0.23.1440.795@0.23.1440.795" timestamp="1620414877834" />
+    <state x="431" y="200" key="git4idea.merge.GitMergeDialog" timestamp="1620414921645">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="431" y="200" key="git4idea.merge.GitMergeDialog/0.23.1440.795@0.23.1440.795" timestamp="1620414921645" />
+    <state x="371" y="142" width="670" height="676" key="search.everywhere.popup" timestamp="1614799733669">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="371" y="142" width="670" height="676" key="search.everywhere.popup/0.23.1440.795@0.23.1440.795" timestamp="1614799733669" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RunOnlyFailedTestCasesOnJenkins.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RunOnlyFailedTestCasesOnJenkins.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
